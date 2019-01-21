@@ -59,6 +59,6 @@ ID   Name                Status
 # Requirements and instructions
 
   - Fork this project.
-  - We would like you to use the Python programming language. But you can choose any language you want.
+  - We would like you to use the Python programming language, by doing so you may get some extra points. But you can choose any language you want.
   - We need instructions on how to use the system or script, so document it.
   - Send your repository link to x@y.com
