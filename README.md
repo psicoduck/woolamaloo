@@ -48,7 +48,7 @@ But, for now, it would be useful to have a report that shows what changed. Which
 So, your task here is to compare both data and generate a report that must include:
 
   - All department relocations.
-  - All positions chages.
+  - All positions changes.
   - All new employees.
   - All missing employees.
 
@@ -69,11 +69,11 @@ ID   Name                Status
   - Fork this project.
   - We would like you to use the Python programming language, by doing so you may get some extra points. But you can choose any language you want.
   - We need instructions on how to use the system or script, so document it.
-  - Send your repository link to woolamaloo@correio.cmc.pr.gov.br
+  - Send your repository link to woolamaloo@cmc.pr.gov.br
 
 ## Recommendations
 
-  * It is not required at all, but we would like to see some tests(if you know how to do it, otherwise don't UAIste your time)!
+  * It is not required at all, but we would like to see some tests(if you know how to do it, otherwise don't UAIste your time)! Seriously, if you don't know how to test yet, you might learn here.
   * Practice the [12 Factor-App](http://12factor.net) concepts;
   * Use [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
   design principles;
@@ -82,4 +82,12 @@ ID   Name                Status
     with clear messages (written in English);
 
   **Have fun!**
-    
+
+## Disclaimer
+
+**ATTENTION**, this is a fictional repository we use to assess interns knowledge before hiring them.
+It's name is a reference from a Monty Python Sketch, https://en.wikipedia.org/wiki/Bruces_sketch.
+
+## Credits
+
+We were inspired by the Work at Olist repository: https://github.com/olist/work-at-olist
