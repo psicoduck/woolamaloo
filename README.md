@@ -32,7 +32,7 @@ id,name,admission_date,demission_date,department,position
 
 ## Web auth data specification
 
-The web auth data you can use is a simplification from what you could would from a query to a LDAP database. Our IT team already created a script that transforms the LDAP export format to a csv format to make it easier to compare. The University will use the report you will provide to update the authentication data.
+The web auth data you can use is a simplification from what you would get from a query to a LDAP database. Our IT team already created a script that transforms the LDAP export format to a csv format to make it easier to compare. The University will use the report you will provide to update the authentication data.
 
 ```csv
 cn,employeeNumber,mail,uid,department,position
